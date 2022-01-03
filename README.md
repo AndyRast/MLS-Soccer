@@ -1,16 +1,16 @@
-**Ball Possession**
+# Ball Possession
 
 **Table of Contents**
 
-- Summary
+- [Summary](#summary)
 - Motivation
 - Data Question
 - Key Findings
 - Known Issues and Challenges
-- Technologies
+- [Technologies](#technologies)
 - Sources
 
-**Summary**
+## Summary
 
 This is the capstone project for my Data Analytics course at the Nashville Software School.
 
@@ -46,7 +46,7 @@ The same can be said about the number of passes a team takes. More passes are no
 
 ![](Assets/gapasses.png) ![](Assets/goalspasses.png)
 
-**Known Issues and Challenges**
+## Known Issues and Challenges
 
 Large Excel files that cover all events from all Major League Soccer seasons from 1996 to 2021.
 
@@ -54,14 +54,14 @@ Limitations in the use of APIs.
 
 It was rather difficult to scrape the MLS webpage.
 
-**Technologies**
+## Technologies
 
 - Python (Pandas)
 - Jupyter notebooks
 - PowerBI
 - Excel
 
-**Sources**
+## Sources
 
 - [https://www.mlssoccer.com/stats/clubs/](https://www.mlssoccer.com/stats/clubs/)
 - [https://www.mlssoccer.com/stats/players/](https://www.mlssoccer.com/stats/players/)
