@@ -1,14 +1,14 @@
 # Ball Possession
 
-**Table of Contents**
+# Table of Contents
 
 - [Summary](#summary)
-- Motivation
-- Data Question
-- Key Findings
-- Known Issues and Challenges
+- [Motivation](#motivation)
+- [Data Question](#data_question)
+- [Key Findings](#key_findings)
+- [Known Issues and Challenges](#known_issues_and_challenges)
 - [Technologies](#technologies)
-- Sources
+- [Sources](#sources)
 
 ## Summary
 
@@ -16,7 +16,7 @@ This is the capstone project for my Data Analytics course at the Nashville Softw
 
 Ball possession has become an increasingly popular measure in soccer broadcasting. Statistics about the ball possession of each team are displayed regularly. But what does ball possession tell a viewer about the quality of each team? What other factors does ball possession influence? The Major League Soccer 2021 season will be analyzed to answer these questions.
 
-**Motivation**
+## Motivation
 
 The debate around ball possession in soccer has dramatically increased in recent years. It started with the Spanish &quot;tiki-taka, &quot;which became &quot;viral&quot; thanks to Pep Guardiola&#39;s FC Barcelona&#39;s aerial victories and the Spanish national team.
 
@@ -24,13 +24,13 @@ The perception of the importance of ball possession is not so recent, though. On
 
 I decided to investigate ball possession in the Major League Soccer Season 2021 to assess any correlation with other statistics and, ultimately, team success.
 
-**Data Question**
+## Data Question
 
 1. Is there a correlation between ball possession and passes taken by a team?
 2. Can we find that ball possession is a good indicator for the outcome of a game?
 3. Do high ball possession and a higher passing rate leads to more positive team outcomes?
 
-**Key Findings**
+## Key Findings
 
 It is true that higher ball possession teams also have more passes. Or that teams that pass more have higher ball possession.
 
