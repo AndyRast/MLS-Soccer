@@ -34,17 +34,17 @@ I decided to investigate ball possession in the Major League Soccer Season 2021 
 
 It is true that higher ball possession teams also have more passes. Or that teams that pass more have higher ball possession.
 
-![](Assets/ballpossessionpasses.png)
+![](Assets/ballpossessionpasses.PNG)
 
 However, ball possession tells little about the outcome of a game. There is little evidence that higher ball possession leads to fewer goals against, more goals scored, and more fouls received.
 
-![](Assets/ballpossessionga.png)
+![](Assets/ballpossessionga.PNG)
 
-![](Assets/ballpossessionfouls.png) ![](Assets/ballpossessiongoals.png)
+![](Assets/ballpossessionfouls.PNG) ![](Assets/ballpossessiongoals.PNG)
 
 The same can be said about the number of passes a team takes. More passes are not leading to more goals for a team or fewer goals against.
 
-![](Assets/gapasses.png) ![](Assets/goalspasses.png)
+![](Assets/gapasses.PNG) ![](Assets/goalspasses.PNG)
 
 ## Known Issues and Challenges
 
